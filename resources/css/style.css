@@ -14,3 +14,32 @@ h1{
   color:white;
 
 }
+
+body{
+  text-align: center;
+  background-color: black;
+  color:white;
+  font-family:Verdana, sans-serif;
+}
+
+.guide h2{
+  font-weight: 300;
+  font-size: 42px;
+
+}
+
+.guide p{
+  font-size: 21px;
+  color:Gray;
+}
+
+.link
+{
+  color:Aquamarine;
+
+}
+
+.footer{
+  text-align: right;
+  color:Gray;
+}
